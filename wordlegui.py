@@ -23,7 +23,7 @@ class GUI:
         #     "Taper", "Track", "Tramp", "Treat", "Tenth", "Trunk", "Twirl", "Twine", "Unite", "Union",
         #     "Utile", "Usher", "Vogue", "Viper", "Vicar", "Vigor", "Video", "Vowel", "Wager", "Watch",
         #     "Whisk", "Wipes", "Write", "Wiped", "Whale", "Wreak", "Yikes", "Yawns", "Youth", "Zebra",
-        #     "Zeroes", "Zesty", "Zippy", "Zingy"]
+        #     "Zeroes", "Zesty", "Zippy", "Zingy", "Twist"]
         responce = requests.get("https://random-word-api.herokuapp.com/word?length=5")
         self.word = responce.text.upper()[2:-2:]
         blank = []
