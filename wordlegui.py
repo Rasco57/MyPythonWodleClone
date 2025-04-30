@@ -15,7 +15,7 @@ class GUI:
         #     "Gushy", "Haste", "Hedge", "Honey", "Hush", "Human", "House", "Hilly", "Herds", "Knots",
         #     "Knock", "Knees", "Know", "Lapse", "Lapse", "Laugh", "Lease", "Lemon", "Lodge", "Light",
         #     "Lunar", "Ledge", "Mirth", "Mourn", "Money", "Moose", "Mouse", "Mirth", "Nudge", "Nurse",
-        #     "Noise", "Niece", "Nasty", "Nines", "Noisy", "Oasis", "Oval", "Opium", "Oiled", "Peach",
+        #     "Noise", "Niece", "Nasty", "Nines", "Noisy", "Oasis", "Ovals", "Opium", "Oiled", "Peach",
         #     "Patch", "Plumb", "Place", "Plead", "Pluck", "Pride", "Prize", "Prism", "Proud", "Proxy",
         #     "Quick", "Quake", "Quiet", "Quota", "Ratio", "Reach", "Race", "Rinse", "Riper", "Raise",
         #     "Rally", "Risky", "Road", "Rover", "Round", "Scene", "Scope", "Scale", "Snare", "Slink",
